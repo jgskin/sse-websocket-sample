@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cboden/Ratchet": "dev-master",
+        "ext-curl": "*"
+    } 
+}
